@@ -1,2 +1,2 @@
 # TIV-PRACTICAS
-Prácticas de Tecnologías de la Imagen y Vídeo
+## Práctica 1 TIV
